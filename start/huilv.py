@@ -22,7 +22,7 @@ def get_amount():
 
         except ValueError:
             print("please write the correct number")
-
+git
 rates = get_rates()
 usd = get_amount()
 
