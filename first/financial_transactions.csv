@@ -1,0 +1,9 @@
+date,type,category,amount
+2026-09-01,income,salary,5000
+2026-09-01,expense,food,35
+2026-09-02,expense,transport,12
+2026-09-03,expense,shopping,120
+2026-09-04,expense,food,48
+2026-09-05,expense,transport,20
+2026-09-06,expense,shopping,80
+2026-09-07,expense,food,25
